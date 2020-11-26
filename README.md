@@ -6,12 +6,10 @@
 #### 1.1.1. Pruning
 #### 1.1.2. Qunatization
 #### 1.1.3. Efficient Network
-### 1.2. Generative Models
-### 1.3. Recurrent Networks
-### 1.4. Optimization
-### 1.5. Efficient Training Methods
-#### 1.5.1. Mixup
-### 1.6. Efficient Inference Methods
+### 1.2. Optimization
+### 1.3. Efficient Training Methods
+#### 1.3.1. Mixup
+### 1.4. Efficient Inference Methods
 
 ## 2. Learning Framework
 
