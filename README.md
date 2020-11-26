@@ -76,6 +76,7 @@
 #### 4.2.1. Adversarial Training
 #### 4.2.2. Certifiable Training
 #### 4.2.3. Randomized Smoothing
+#### 4.2.4. Analysis
 
 ## 5. Social Aspects
 
