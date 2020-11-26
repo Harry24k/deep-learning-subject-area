@@ -13,17 +13,18 @@
 
 ## 2. Learning Framework
 
-### 2.1. Unsupervised Learning
-### 2.2. Semi Supervised Learning
-### 2.3. Weakly Supervised Learning
-### 2.4. Meta Learning
-### 2.5. Low Shot Learning
-#### 2.5.1. Zero Shot Learning
-#### 2.5.2. One Shot Learning
-#### 2.5.3. Few Shot Learning
-### 2.6. Transfer Learning
-### 2.7. Domain Adaptation
-### 2.8. Online Learning
+### 2.1. Supervised Learning
+### 2.2. Unsupervised Learning
+### 2.3. Semi Supervised Learning
+### 2.4. Weakly Supervised Learning
+### 2.5. Meta Learning
+### 2.6. Low Shot Learning
+#### 2.6.1. Zero Shot Learning
+#### 2.6.2. One Shot Learning
+#### 2.6.3. Few Shot Learning
+### 2.7. Transfer Learning
+### 2.8. Domain Adaptation
+### 2.9. Online Learning
 
 ## 3. Applications
 
@@ -61,12 +62,10 @@
 #### 3.5.2. Time Series Classification
 #### 3.5.3. Time Series Forecasting
 
-### 3.6. Etc
-#### 3.6.1. Information Retrieval
-#### 3.6.2. Recommender Systems
-#### 3.6.3. Missing Data
-#### 3.6.4. Anomaly Detection
-
+### 3.6. Information Retrieval
+### 3.7 Recommender Systems
+### 3.8. Missing Data
+### 3.9. Anomaly Detection
 
 ## 4. Adversarial Robustness
 ### 4.1. Adversarial Attack
