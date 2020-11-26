@@ -1,7 +1,5 @@
 # Deep Learning Subject Areas
 
----
-
 ## 1. Deep Learning
 
 ### 1.1. Network Architecture
