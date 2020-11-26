@@ -3,6 +3,9 @@
 ## 1. Deep Learning
 
 ### 1.1. Network Architecture
+#### 1.1.1. Pruning
+#### 1.1.2. Qunatization
+#### 1.1.3. Efficient Network
 ### 1.2. Generative Models
 ### 1.3. Recurrent Networks
 ### 1.4. Optimization
