@@ -14,6 +14,8 @@
 ## 2. Learning Framework
 
 ### 2.1. Supervised Learning
+#### 2.1.1. Regression
+#### 2.1.2. Classification
 ### 2.2. Unsupervised Learning
 ### 2.3. Semi Supervised Learning
 ### 2.4. Weakly Supervised Learning
