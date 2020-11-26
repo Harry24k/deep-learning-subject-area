@@ -68,6 +68,8 @@
 
 ## 4. Adversarial Robustness
 ### 4.1. Adversarial Attack
+#### 4.1.1. White Box
+#### 4.2.2. Black Box
 ### 4.2. Adversarial Defense
 #### 4.2.1. Adversarial Training
 #### 4.2.2. Certifiable Training
