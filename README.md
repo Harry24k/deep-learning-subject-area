@@ -2,10 +2,10 @@
 
 ## 1. Deep Learning
 
-<details><summary> Network Architecture </summary><p>
-  + Pruning
-  + Qunatization
-  + Efficient Network
+<details><summary>Network Architecture</summary><p>
+* Pruning
+* Qunatization
+* Efficient Network
 </p></details>
 ### 1.2. Optimization
 ### 1.3. Efficient Training Methods
