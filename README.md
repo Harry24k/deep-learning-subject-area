@@ -4,88 +4,168 @@
 
 <details><summary>Network Architecture</summary><p>
   
-* Pruning
-* Qunatization
-* Efficient Network
+  + Pruning
+  + Qunatization
+  + Efficient Network
 
 </p></details>
-### 1.2. Optimization
-### 1.3. Efficient Training Methods
-#### 1.3.1. Mixup
-### 1.4. Efficient Inference Methods
+
+<details><summary>Optimization</summary><p>
+
+</p></details>
+
+
+<details><summary>Efficient Training Methods</summary><p>
+
+  + Mixup
+
+</p></details>
+
+<details><summary>Efficient Inference Methods</summary><p>
+
+</p></details>
 
 ## 2. Learning Framework
 
-### 2.1. Supervised Learning
-#### 2.1.1. Regression
-#### 2.1.2. Classification
-### 2.2. Unsupervised Learning
-### 2.3. Semi Supervised Learning
-### 2.4. Weakly Supervised Learning
-### 2.5. Meta Learning
-### 2.6. Low Shot Learning
-#### 2.6.1. Zero Shot Learning
-#### 2.6.2. One Shot Learning
-#### 2.6.3. Few Shot Learning
-### 2.7. Transfer Learning
-### 2.8. Domain Adaptation
-### 2.9. Online Learning
+<details><summary>Supervised Learning</summary><p>
+
+  + Regression
+  + Classification
+
+</p></details>
+
+<details><summary>Unsupervised Learning</summary><p>
+
+</p></details>
+
+<details><summary>Semi Supervised Learning</summary><p>
+
+</p></details>
+
+<details><summary>Weakly Supervised Learning</summary><p>
+
+</p></details>
+
+<details><summary>Meta Learning</summary><p>
+
+</p></details>
+
+<details><summary>Low Shot Learning</summary><p>
+
+  + Zero Shot Learning
+  + One Shot Learning
+  + Few Shot Learning
+
+</p></details>
+
+<details><summary>Transfer Learning</summary><p>
+
+</p></details>
+
+<details><summary>Domain Adaptation</summary><p>
+
+</p></details>
+
+<details><summary>Online Learning</summary><p>
+
+</p></details>
 
 ## 3. Applications
 
-### 3.1. Computer Vision
-#### 3.1.1. Image Classification
-#### 3.1.2. Image Generation
-#### 3.1.3. Image Segmentation
-#### 3.1.4. Image Caption
-#### 3.1.5. Object Detection
-#### 3.1.7. Denoising
-#### 3.1.8. Pose Estimation
-#### 3.1.9. Body Pose, Face, and Gesture Analysis
+<details><summary>Computer Vision</summary><p>
 
-### 3.2. Natural Language Processing
-#### 3.2.1. Machine Translation
-#### 3.2.2. Question Answering
-#### 3.2.3. Sentiment Analysis
-#### 3.2.4. Text Generation
+  + Image Classification
+  + Image Generation
+  + Image Segmentation
+  + Image Caption
+  + Object Detection
+  + Denoising
+  + Pose Estimation
+  + Body Pose, Face, and Gesture Analysis
+  
+</p></details>
 
-### 3.3. Audio
-#### 3.3.1. Audio Tagging
-#### 3.3.2. Audio Classification
-#### 3.3.3. Audio Generation
+<details><summary>Natural Language Processing</summary><p>
+  
+  + Machine Translation
+  + Question Answering
+  + Sentiment Analysis
+  + Text Generation
+  
+</p></details>
 
-### 3.4. Graphs
-#### 3.4.1. Link Prediction
-#### 3.4.2. Node Classification
-#### 3.4.3. Graph Classification
-#### 3.4.4. Graph Embedding
-#### 3.4.5. Community Detection
-#### 3.4.6. Network Analysis
+<details><summary>Audio</summary><p>
+  
+  + Audio Tagging
+  + Audio Classification
+  + Audio Generation
+  
+</p></details>
 
-### 3.5. Time Series
-#### 3.5.1. Time Series Analysis
-#### 3.5.2. Time Series Classification
-#### 3.5.3. Time Series Forecasting
+<details><summary>Graphs</summary><p>
+  
+  + Link Prediction
+  + Node Classification
+  + Graph Classification
+  + Graph Embedding
+  + Community Detection
+  + Network Analysis
+  
+</p></details>
 
-### 3.6. Information Retrieval
-### 3.7 Recommender Systems
-### 3.8. Missing Data
-### 3.9. Anomaly Detection
+<details><summary>Time Series</summary><p>
+  
+  + Time Series Analysis
+  + Time Series Classification
+  + Time Series Forecasting
+  
+</p></details>
+
+<details><summary>Information Retrieval</summary><p>
+  
+</p></details>
+
+<details><summary>Recommender Systems</summary><p>
+  
+</p></details>
+
+
+<details><summary>Missing Imputation</summary><p>
+  
+</p></details>
+
+<details><summary>Anomaly Detection</summary><p>
+  
+</p></details>
 
 ## 4. Adversarial Robustness
-### 4.1. Adversarial Attack
-#### 4.1.1. White Box
-#### 4.2.2. Black Box
-### 4.2. Adversarial Defense
-#### 4.2.1. Adversarial Training
-#### 4.2.2. Certifiable Training
-#### 4.2.3. Randomized Smoothing
-#### 4.2.4. Analysis
+<details><summary>Adversarial Attack</summary><p>
+
+  + White Box
+  + Black Box
+
+</p></details>
+
+<details><summary>Adversarial Defense</summary><p>
+
+  + Adversarial Training
+  + Certifiable Training
+  + Randomized Smoothing
+  + Analysis  
+
+</p></details>
+
+
 
 ## 5. Social Aspects
+<details><summary>Explainable AI</summary><p>
 
-### 5.1. Explainable AI
+</p></details>
 
-### 5.2. Fairness
+<details><summary>Fairness</summary><p>
 
-### 5.3. Privacy
+</p></details>
+
+<details><summary>Privacy</summary><p>
+  
+</p></details>
