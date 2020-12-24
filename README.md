@@ -7,6 +7,7 @@
   + Pruning
   + Qunatization
   + Efficient Network
+  + Graph Neural Network
 
 </p></details>
 
